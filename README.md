@@ -2,7 +2,7 @@
 # UX/UI Challenge
 
 * **Track:** _Common Core_
-* **Curso:** _ Creando un sitio web interactivo con JavaScript_
+* **Curso:** _Creando un sitio web interactivo con JavaScript_
 * **Unidad:** _Intro a User Experience Design_
 
 ***
