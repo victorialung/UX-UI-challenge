@@ -25,7 +25,7 @@ Elige una web de tu preferencia y explica qué partes conforman el UX y que part
 |Permite escoger tema oscuro y claros para regular la iluminacion | Tipo de temas (zonas claras y zonas oscuras)
 
 
-- Lo señalado en la tabla de diferencia se muestra en la siguientes _imagenes _:
+- Lo señalado en la tabla de diferencia se muestra en la siguientes imagenes :
 
    > UX : Recomienda videos o canales basados en mi historial / UI : Los colores de la marca (negro ,blanco y rojo ) y barra de menu lateral flotante
 ![image2](assets/img/image2.png)
